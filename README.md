@@ -19,3 +19,10 @@ This study will integrate the environmental factors of eReefs with the AIMS moni
 Principal Component Analysis (PCA) is used to extract the main environmental gradients, and seasonal predictions are made under the synthetic climate scenarios.
 
 The final output includes time series prediction results, uncertainty ranges, and visualized scenarios for the period 2019-2023.
+
+
+Task allocation：
+
+COST and coral trout prediction model（SARIMAX & Hurdle）：Ruisi Hou
+
+Biological variables（coral trout vs seagrass）：Vivi Yan
