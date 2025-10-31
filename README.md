@@ -23,6 +23,6 @@ The final output includes time series prediction results, uncertainty ranges, an
 
 Task allocation：
 
-COST and coral trout prediction model（SARIMAX & Hurdle）：Ruisi Hou
+COTS and coral trout prediction model（SARIMAX & Hurdle）：Ruisi Hou
 
 Biological variables（coral trout vs seagrass）：Vivi Yan
